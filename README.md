@@ -1,4 +1,4 @@
-- Full Stack Web App Developer | Mobile App Developer
+- Full Stack Web Developer | Mobile App Developer
 - 🎯 Passionate about building scalable web applications and mobile applications
 - 💻 Working with Next.js, React, Angular, MySQL, PostgreSQL, MongoDB, Node.js, React-Native
 - ⚡ Experienced in Realtime web-apps, Backend Systems, and Mobile Applications
