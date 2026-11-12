@@ -1,12 +1,17 @@
-- Full Stack Web Developer
-- 🎯 Passionate about building scalable web applications
-- 💻 Working with Next.js, React, Angular, Node.js, Express, MySQL, PostgreSQL, MongoDB, Kafka, Docker, Redis
-- ⚡ Experienced in Full Stack Web-Apps, Backend Systems
-- ✏️ Want to explore Java Backend Development
-- 📌 Always learning & eager to contribute
+### Hi, I'm Suraj 👋
 
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/suraj-kumar-jha-1946712aa/) | [Portfolio](https://portfolio-sigma-black-25.vercel.app/) | [X](https://x.com/Surajkumar_747)
-<!---
-Surajkumarjha07/Surajkumarjha07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend developer who enjoys the parts of a system users never see: queues, retries, failure handling, and making things reliable under load.
+
+**What I'm interested in**
+- Distributed systems and event-driven architecture
+- Reliability: idempotency, retries, graceful failure, observability
+- Java Spring Boot and Node.js/TypeScript backends
+- Cloud and DevOps: AWS, containers, infrastructure as code
+
+**What I'm looking for**
+Mid-level backend roles in fintech, where correctness, consistency, and uptime matter. I want to work on payments, transactions, or ledger-style systems with a team that cares about engineering quality.
+
+**Tools I work with**
+Java, Spring Boot, TypeScript, Node.js, MongoDB, Redis, DynamoDB, AWS (SQS, Lambda), Docker
+
+📫 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-jha-1946712aa/) | [Portfolio](https://portfolio-sigma-black-25.vercel.app/) | [X](https://x.com/Surajkumar_747)
